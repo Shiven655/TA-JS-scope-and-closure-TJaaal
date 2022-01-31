@@ -54,6 +54,7 @@ function counter(){
   return increment()
 }
 ```
+//unexpected identifier
 
 Create the execution context diagram of the following code line by line.
 
@@ -67,3 +68,4 @@ let counter = function () {
   return increment();
 };
 ```
+//Unexpected identifier
